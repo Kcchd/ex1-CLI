@@ -1,0 +1,32 @@
+{
+  "name": "@kcchd/holidates-cli",
+  "version": "1.0.1",
+  "dependencies": {
+    "country-list": "^2.2.0",
+    "axios": "~0.20.0"
+  },
+  "description": "",
+  "main": "./index.js",
+  "bin": {
+    "holidays": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kcchd/ex1-CLI.git"
+  },
+  "author": "Kim Couchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kcchd/ex1-CLI/issues"
+  },
+  "homepage": "https://github.com/Kcchd/ex1-CLI#readme"
+}
